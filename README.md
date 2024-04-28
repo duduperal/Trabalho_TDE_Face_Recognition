@@ -16,5 +16,8 @@ Após Isso Nós Subimos Mais 4 Imagens Sendo 3 Dessas Imagens As Mesmas Faces Vi
 ![alt text](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2017_46/2224911/171113-bill-gates-se-247p.jpg)
 ![alt text](https://specials-images.forbesimg.com/imageserve/1184274010/960x0.jpg)
 
-Os Resultados Dessa Comparação Foi Essa:
-![alt text](https://github.com/[duduperal]/[Trabalho_TDE_Face_Recognition]/blob/[branch]/image.jpg?raw=true)
+Os Resultados Foram Esses:
+
+![alt text](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/elon-spotted.png)
+![alt text](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/bill-spotted.png)
+![alt text](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/obama-spotted.png)
