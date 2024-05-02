@@ -5,6 +5,11 @@ Para Visualizar a Instalação e os Testes Feitos Basta Entrar no Nosso Notebook
 https://colab.research.google.com/drive/1hRlggnvw1xJxy3x0nuwMfrQp8fSuYwhH?usp=sharing
 
 Nosso experimento consistiu em realizar a maioria das funcionalidades da biblioteca, desde as mais úteis como identificar pessoas em imagens...
+
+
 ![elon_spotted](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/elon-spotted.png)
+
+
+
 até as mais ínuteis como maquiar uma pessoa...
 ![Julio_maquiado](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/julio_maquiado.png)
