@@ -10,6 +10,7 @@ Nosso experimento consistiu em realizar a maioria das funcionalidades da bibliot
 ![elon_spotted](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/elon-spotted.png)
 
 
-
 até as mais ínuteis como maquiar uma pessoa...
+
+
 ![Julio_maquiado](https://github.com/duduperal/Trabalho_TDE_Face_Recognition/blob/main/julio_maquiado.png)
